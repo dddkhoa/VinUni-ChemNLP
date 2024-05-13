@@ -1,0 +1,11 @@
+paper name,compound name,metal source,metal amount,linker,linker amount,modulator,modulator amount or volume,solvent,solvent volume,reaction temperature,reaction time
+MOF synthesis from paper /Users/kaiser/code/chemnlp/v1/INPUT/test2.pdf,Zn/Cu-BTC,"Zn(NO3)2·6H2O, Cu(NO3)2·3H2O","0.2289 g, 0.00095 mol Cu, 0.4410 g, 0.0021 mol Zn","Benzene-1,3,5-tricarboxylic acid",0.4410 g,N/A,N/A,N/A,N/A,N/A,N/A
+MOF synthesis from paper /Users/kaiser/code/chemnlp/v1/INPUT/test2.pdf,Cu-BTC,Cu(NO3)2·3H2O,"0.2289 g, 0.00095 mol","Benzene-1,3,5-tricarboxylic acid",0.4410 g,N/A,N/A,N/A,N/A,N/A,N/A
+MOF synthesis from paper /Users/kaiser/code/chemnlp/v1/INPUT/test2.pdf,Zn-BTC,Zn(NO3)2·6H2O,"0.4410 g, 0.0021 mol","Benzene-1,3,5-tricarboxylic acid",0.4410 g,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Ce-MIL-53(Al),CeCl3,Not provided,H2BDC,Not provided,Not provided,Not provided,"H2O, DMF",Not provided,160 °C,4 h
+N/A,Ce-MIL-53(Al),Ce(OAc)2·4H2O,Not provided,H2BDC,Not provided,Not provided,Not provided,"H2O, DMF",Not provided,160 °C,4 h
+-/Users/kaiser/code/chemnlp/v1/INPUT/test1.pdf,Zn-HKUST-152,Zn(NO3)2 6H2O,268 mg (0.9 mmol),BTC,128 mg (0.6 mmol),N/A,N/A,DMF,15 mL,80 1C,16 h
+-/Users/kaiser/code/chemnlp/v1/INPUT/test1.pdf,Cu-HKUST-153,Cu(NO3)2 2.5H2O,500 mg (2.14 mmol),BTC,126 mg (1.42 mmol),N/A,N/A,DMF,15 mL,80 1C,16 h
+/Users/kaiser/code/chemnlp/v1/INPUT/test1.pdf,OF-7455,Mg(NO3)26H2O,186 mg,DOBDC,40 mg,N/A,N/A,"DMF, EtOH, DI water","17.6 mL, 1.2 mL, 1.2 mL",125 1C,24 h
+/Users/kaiser/code/chemnlp/v1/INPUT/test1.pdf,Co-MOF-7456,Co(CH3CO2)24H2O,400 mg,DOBDC,319 mg,N/A,N/A,"H2O, THF","10 mL, 10 mL",100 1C,2 days
+/Users/kaiser/code/chemnlp/v1/INPUT/test1.pdf,Fe-MOF-7428,FeCl34H2O,263 mg,DOBDC,135 mg,N/A,N/A,"DMF, isopropanol, H2O","13.55 mL, 0.725 mL, 0.725 mL",105 1C,24 h
