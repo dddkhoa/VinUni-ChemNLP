@@ -4,7 +4,7 @@
 
 # For building the container
 
-docker build -t chemnlp:v1.0 .
+docker buildx build --platform linux/amd64 -t chemnlp:v1.0 .
 
 # For running
 
